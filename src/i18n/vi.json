@@ -1,0 +1,87 @@
+{
+    "common": {
+        "noResults": "Không có kết quả",
+        "added": "Thêm thành công",
+        "updated": "Cập nhật thành công",
+        "deleted": "Xóa thành công",
+        "confirmDelete": "Bạn có chắc chắn muốn xóa mục này?",
+        "confirmation": "Xác nhận",
+        "save": "Lưu",
+        "cancel": "Hủy",
+        "view": "Xem",
+        "delete": "Xóa",
+        "back": "Quay lại"
+    },
+    "navbar": {
+        "home": "Trang chủ",
+        "cart": "Giỏ hàng",
+        "admin": "Quản trị",
+        "language": "Ngôn ngữ",
+        "goToCart": "Đi tới giỏ hàng"
+    },
+    "admin": {
+        "title": "Trang quản trị",
+        "add": "Thêm thú cưng mới",
+        "edit": "Chỉnh sửa thú cưng",
+        "name": "Tên",
+        "price": "Giá",
+        "category": "Danh mục",
+        "image": "Ảnh",
+        "filter": "Lọc theo danh mục",
+        "search": "Tìm theo tên",
+        "actions": "Hành động"
+    },
+    "cart": {
+        "title": "Giỏ hàng của bạn",
+        "empty": "Giỏ hàng trống",
+        "checkout": "Thanh toán",
+        "total": "Tổng cộng",
+        "continue": "Tiếp tục mua hàng",
+        "added": "Đã thêm vào giỏ",
+        "removed": "Đã xóa khỏi giỏ",
+        "quantity": "Số lượng"
+    },
+    "home": {
+        "title": "Thú cưng của chúng tôi",
+        "addToCart": "Thêm vào giỏ",
+        "viewDetail": "Xem chi tiết",
+        "addedMsg": "Đã thêm vào giỏ!",
+        "search": "Tìm theo tên",
+        "filter": "Lọc theo danh mục",
+        "noResults": "Không tìm thấy kết quả"
+    },
+    "product": {
+        "title": "Chi tiết sản phẩm",
+        "price": "Giá",
+        "description": "Mô tả",
+        "addToCart": "Thêm vào giỏ"
+    },
+    "checkout": {
+        "title": "Thanh toán",
+        "summary": "Tóm tắt đơn hàng",
+        "total": "Tổng cộng",
+        "placeOrder": "Đặt hàng",
+        "back": "Quay lại Trang chủ",
+        "customerInfo": "Thông tin khách hàng",
+        "name": "Họ và tên",
+        "email": "Email",
+        "phone": "Số điện thoại",
+        "address": "Địa chỉ giao hàng",
+        "success": "Đặt hàng thành công!",
+        "validation": "Lỗi nhập liệu",
+        "fillAll": "Vui lòng nhập đầy đủ thông tin!",
+        "invalidEmail": "Vui lòng nhập đúng định dạng email!",
+        "invalidPhone": "Vui lòng nhập số điện thoại hợp lệ!"
+},
+"thankyou": {
+    "title": "Cảm ơn bạn đã đặt hàng!",
+    "message": "Đơn hàng của bạn đã được đặt thành công. Chúng tôi sẽ liên hệ với bạn sớm.",
+    "back": "Quay lại trang chủ"
+},
+"checkoutConfirm": {
+    "title": "Xác nhận đơn hàng",
+    "message": "Bạn có chắc chắn muốn đặt đơn hàng này không?",
+    "yes": "Đồng ý",
+    "no": "Hủy"
+}
+}

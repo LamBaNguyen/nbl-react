@@ -1,0 +1,87 @@
+{
+    "common": {
+        "noResults": "No results found",
+        "added": "Added successfully",
+        "updated": "Updated successfully",
+        "deleted": "Deleted successfully",
+        "confirmDelete": "Are you sure you want to delete this item?",
+        "confirmation": "Confirmation",
+        "save": "Save",
+        "cancel": "Cancel",
+        "view": "View",
+        "delete": "Remove",
+        "back": "Back"
+    },
+    "navbar": {
+        "home": "Home",
+        "cart": "Cart",
+        "admin": "Admin",
+        "language": "Language",
+        "goToCart": "Go to Cart"
+    },
+    "admin": {
+        "title": "Admin Dashboard",
+        "add": "Add New Pet",
+        "edit": "Edit Pet",
+        "name": "Name",
+        "price": "Price",
+        "category": "Category",
+        "image": "Image",
+        "filter": "Filter by Category",
+        "search": "Search by name",
+        "actions": "Actions"
+    },
+    "cart": {
+        "title": "Your Cart",
+        "empty": "Your cart is empty",
+        "checkout": "Checkout",
+        "total": "Total",
+        "continue": "Continue Shopping",
+        "added": "Added to cart",
+        "removed": "Removed from cart",
+        "quantity": "Quantity"
+    },
+    "home": {
+        "title": "Our Pets",
+        "addToCart": "Add to Cart",
+        "viewDetail": "View Details",
+        "addedMsg": "Added to cart!",
+        "search": "Search by name",
+        "filter": "Filter by Category",
+        "noResults": "No results found"
+    },
+    "product": {
+        "title": "Product Details",
+        "price": "Price",
+        "description": "Description",
+        "addToCart": "Add to Cart"
+    },
+    "checkout": {
+        "title": "Checkout",
+        "summary": "Order Summary",
+        "total": "Total",
+        "placeOrder": "Place Order",
+        "back": "Back to Home",
+        "customerInfo": "Customer Information",
+        "name": "Full Name",
+        "email": "Email",
+        "phone": "Phone Number",
+        "address": "Shipping Address",
+        "success": "Order placed successfully!",
+        "validation": "Validation error",
+        "fillAll": "Please fill in all required fields!",
+        "invalidEmail": "Please enter a valid email address!",
+        "invalidPhone": "Please enter a valid phone number!"
+    },
+    "thankyou": {
+        "title": "Thank You for Your Order!",
+        "message": "Your order has been placed successfully. We will contact you soon.",
+        "back": "Back to Home"
+    },
+    "checkoutConfirm": {
+        "title": "Confirm Order",
+        "message": "Are you sure you want to place this order?",
+        "yes": "Yes",
+        "no": "Cancel"
+    }
+}
